@@ -6,7 +6,7 @@
 
 **XJTLU | IBSS | ACC102 AI‑Driven Data Analytics | Track 2**
 
-![Dashboard Preview](figures/apple_dashboard.png)
+![Dashboard Preview](apple_dashboard.png)
 
 ---
 
